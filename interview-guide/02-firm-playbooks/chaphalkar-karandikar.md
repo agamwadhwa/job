@@ -23,7 +23,7 @@ Typical for Pune society redevelopment (unverified for this firm):
 All typical for this role type (unverified for this firm).
 
 ### Q1 [jda] A 1985 society in Model Colony: 24 flats of 700 sq ft carpet on a 1,200 sq m plot on a 12 m road. Build the offer.
-Answer pointer: see the worked example in 03-technical/03, problem 2. Existing carpet 16,800 sq ft. Offer 35–40% more (assumption for core Pune). Check that the free-sale area after UDCPR FSI + TDR + ancillary covers cost, rent and margin.
+Answer pointer: this is a trap. See 03-technical/03, problem 3, and its warning: this exact society (24 × 700 sq ft = 16,800 sq ft existing, on 1,200 sq m with a 12 m road) loses about ₹15 cr at a 40% offer on plain UDCPR FSI + TDR + ancillary. The strong answer is to say it doesn't work as a standard offer, then check (a) whether a UDCPR redevelopment incentive applies (verify current), (b) whether an adjoining plot can be amalgamated, (c) a lower offer %. Don't quote 35–40% before running the numbers.
 
 ### Q2 [appr] Which UDCPR provisions help old-building redevelopment in Pune?
 Answer pointer: UDCPR has specific incentives for redeveloping old/dangerous buildings, plus TDR loading by road width. Know that incentives exist and cite "UDCPR redevelopment provisions (verify current clause and incentive %)". Don't bluff the numbers.

@@ -26,7 +26,7 @@
 (~140 words ≈ 60 seconds spoken. Cut `[FILL]` lines that don't have a strong specific.)
 
 ## Tell me about yourself: 2 minutes
-> **Background.** I'm Agam `[or however you introduce yourself]`, finishing an MBA in Advanced Project Management at NICMAR Pune, graduating in May 2027. My undergraduate degree was a BBA in Business Analytics, so I came to real estate from the numbers side.
+> **Background.** I'm `[Name]`, finishing an MBA in Advanced Project Management at NICMAR Pune, graduating in May 2027. My undergraduate degree was a BBA in Business Analytics, so I came to real estate from the numbers side.
 >
 > **Site experience.** After my BBA I worked for 14 months with a construction contracting firm on government school projects. My work there was `[FILL: 2–3 specific responsibilities]`. The thing I learned most was `[FILL: one honest lesson, e.g. "how far a measured RA bill can drift from what's physically on site, and why cost-to-complete estimates need someone who has walked the floors"]`.
 >
