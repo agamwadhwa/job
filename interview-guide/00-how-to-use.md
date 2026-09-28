@@ -26,7 +26,7 @@ Most numeric material uses one reference project so the numbers stay consistent.
 - Carpet = 78% of FSI area = 2.59 lakh sq ft. Construction area = 1.30 × FSI area = 4.31 lakh sq ft (includes stilt/podium parking and services).
 - Sale rate ₹7,500/sq ft carpet → revenue ₹194 cr.
 - Costs (₹ cr): land 16.0 (₹8 cr/acre), stamp duty 1.1, premium FSI 1.7, TDR 16.4 (₹2,200/sq ft), ancillary premium 1.0, other statutory 5.0, construction 99.1 (₹2,300/sq ft of construction area), professional fees 4.0, marketing and brokerage 9.7, admin 3.9, finance 5.0. **Total 162.9.**
-- Profit ₹31.0 cr = **16.0% of revenue**. Unlevered IRR **23.6%** over 15 quarters. Peak funding **₹54.7 cr** in quarter 3.
+- Profit ₹31.0 cr = **16.0% of revenue**. Unlevered IRR **23.6%** over 15 quarters. Peak funding **₹54.7 cr**, reached in quarter 5 (TDR is loaded in Q3, collections turn positive from Q6).
 - Sensitivities (unlevered IRR): rate −10% → 12.2%; rate +10% → 34.4%; absorption stretched from 12 to 20 quarters → 13.4%; construction 4 quarters late → 22.4%; TDR at ₹3,000 → 18.5%; construction cost +10% → 16.6%; land at ₹10 cr/acre → 19.4%.
 
 Every figure above is an **assumption** for teaching, not a market quote. The FSI table and premium rates follow UDCPR 2020 as generally described. **Verify current** with an architect or liaison consultant before quoting in an interview. The script that produced these numbers is described in `05-model-defence.md`.
